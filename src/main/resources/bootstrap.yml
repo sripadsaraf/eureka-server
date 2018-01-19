@@ -9,4 +9,4 @@ eureka:
 
 
 server:
-  port: 5002
+  port: 8080
